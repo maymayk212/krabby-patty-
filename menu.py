@@ -1,0 +1,7 @@
+print("Menu Krusty Krab")
+print("----------------")
+print("1. Krabby Patty")
+print("2. Krabby Meal")
+print("3. Krusty Dog")
+print("4. Coral Bits")
+print("5. Kelp Shake") 
